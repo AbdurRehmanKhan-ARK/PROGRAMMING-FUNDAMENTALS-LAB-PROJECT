@@ -66,14 +66,15 @@ The **Airline Reservation System** is a C-based console application developed as
 4. 🏁 **Press F11** to Compile & Run.
 
 ---
+## 🧑‍🤝‍🧑 Contributors
 
-## 🧑‍🤝‍🧑 **Contributors**
+| 👨‍💻 Name                | 🧠 Key Contributions                                                                 |
+|-------------------------|--------------------------------------------------------------------------------------|
+| **Faizan Basheer**      | - Developed the complete **Login & Registration system** <br> - Designed the **Admin Panel** with features to add, modify, delete, and view flight details |
+| **Syed Muhammad Sufyan**| - Built the **User Booking Module**, including booking, canceling, and viewing flights <br> - Implemented **automatic cleanup** of past/departed flights |
+| **Abdur Rehman Khan**   | - Ensured **data validation** for login credentials and flight entries <br> - Developed logic to retrieve and display **specific user booking information** |
 
-| 👨‍💻 Name                | 🌟 Contribution Highlights |
-|-------------------------|----------------------------|
-| **Faizan Basheer**      | Login/Registration, Admin Panel, Flight CRUD Ops |
-| **Syed Muhammad Sufyan**| Booking/Canceling, Auto Flight Cleanup       |
-| **Abdur Rehman Khan**   | Data Validation, Specific User Data Presentation      |
+
 
 ---
 
