@@ -32,7 +32,18 @@ The **Airline Reservation System** is a C-based console application developed as
 ---
 
 ## 🏗️ **System Architecture**
-<pre> 📦 AirlineReservationSystem ├── 📄 main_project.c → Main menu and overall program control ├── 📄 registration.c → Handles user sign-up, login, and credential storage ├── 📄 admin.c → Admin dashboard for managing flights and bookings ├── 📄 user.c → Booking, viewing, modifying, and cancelling flights ├── 📄 validation.c → Input checks, flight/date validation, and login verification │ └── 📂 DataFiles/ ├── flight.txt → Stores flight records: numbers, origins, destinations, timings ├── user_info.txt → Registered user credentials (username & password) └── user_bookings.txt → Logs user bookings: flight details, seats, classes, etc. </pre>
+| File/Folder             | Type     | Description                                                               |
+| ----------------------- | -------- | ------------------------------------------------------------------------- |
+| `main_project.c`        | `C File` | 🔹 Entry point of the application; contains the main menu logic           |
+| `registration.c`        | `C File` | 🔹 Handles user registration and login functionality                      |
+| `admin.c`               | `C File` | 🔹 Admin-side operations: add, modify, delete, and view flights           |
+| `user.c`                | `C File` | 🔹 User-side operations: search, book, modify, and cancel flight bookings |
+| `validation.c`          | `C File` | 🔹 Provides input validations and checks flight availability              |
+| `DataFiles/`            | `Folder` | 🔹 Directory containing external data used by the system                  |
+| ├── `flight.txt`        | `Text`   | ➤ Stores all flight details: flight number, date, origin, destination     |
+| ├── `user_info.txt`     | `Text`   | ➤ Stores registered user credentials (username & password)                |
+| └── `user_bookings.txt` | `Text`   | ➤ Tracks each user's booking history and related flight details           |
+
 
 
 
