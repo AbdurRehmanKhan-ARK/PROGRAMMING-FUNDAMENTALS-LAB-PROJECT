@@ -42,7 +42,7 @@ The **Airline Reservation System** is a C-based console application developed as
 | `DataFiles/`            | `Folder` | 🔹 Directory containing external data used by the system                  |
 | ├── `flight.txt`        | `Text`   | ➤ Stores all flight details: flight number, date, origin, destination     |
 | ├── `user_info.txt`     | `Text`   | ➤ Stores registered user credentials (username & password)                |
-| └── `user_bookings.txt` | `Text`   | ➤ Tracks each user's booking history and related flight details           |
+| └─ `user_bookings.txt` | `Text`   | ➤ Tracks each user's booking history and related flight details           |
 
 
 
@@ -85,19 +85,17 @@ The **Airline Reservation System** is a C-based console application developed as
 > - 🛠 Error Detection & Input Validation
 
 ---
+## 📫 Contact
 
+- 📧 Gmail: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
+- 🔗 LinkedIn: [Abdur Rehman Khan](https://linkedin.com/in/abdur-rehman-khan)
+  
 ## 📜 **License**
 This project is **open-source** and intended for educational use only.  
 Feel free to fork, learn, and build your own ideas on top of this.
 
 ---
-
-## 🌐 **Connect With Us**
-
-- 📧 **Abdur Rehman Khan:** [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
-- 💼 **LinkedIn:** [Abdur Rehman Khan](https://www.linkedin.com/in/abdur-rehman-khan)
-
----
+ 
 
 > ✨ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 
