@@ -32,8 +32,19 @@ The **Airline Reservation System** is a C-based console application developed as
 ---
 
 ## 🏗️ **System Architecture**
-
-![image](https://github.com/user-attachments/assets/256b3d26-1929-4005-88b1-c455ba4714d7)
+📁 AirlineReservationSystem
+├── 📄 main_project.c          # Entry point: Handles main menu and navigation
+├── 📄 registration.c         # User registration & login logic
+├── 📄 admin.c                # Admin operations (manage flights/bookings)
+├── 📄 user.c                 # User operations (book, cancel, view, modify flights)
+├── 📄 validation.c           # Validations: login, input, and flight availability
+│
+├── 📁 DataFiles/
+│   ├── ✈️ flight.txt         # Stores flight data (number, route, etc.)
+│   ├── 👤 user_info.txt      # Stores registered user credentials
+│   ├── 🧾 user_bookings.txt  # User-specific flight bookings
+│
+└── 📄 README.md              # Project overview and documentation
 
 
 
