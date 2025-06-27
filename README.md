@@ -71,9 +71,9 @@ The **Airline Reservation System** is a C-based console application developed as
 
 | 👨‍💻 Name                | 🌟 Contribution Highlights |
 |-------------------------|----------------------------|
-| **Faizan Basheer**      | Login/Registration, Admin Panel, Flight CRUD |
+| **Faizan Basheer**      | Login/Registration, Admin Panel, Flight CRUD Ops |
 | **Syed Muhammad Sufyan**| Booking/Canceling, Auto Flight Cleanup       |
-| **Abdur Rehman Khan**   | Data Validation, User Data Presentation      |
+| **Abdur Rehman Khan**   | Data Validation, Specific User Data Presentation      |
 
 ---
 
@@ -87,8 +87,9 @@ The **Airline Reservation System** is a C-based console application developed as
 ---
 ## 📫 Contact
 
-- 📧 Gmail: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
-- 🔗 LinkedIn: [Abdur Rehman Khan](https://linkedin.com/in/abdur-rehman-khan)
+- 📧 Gmail: [_abdurrehmankhan0909@gmail.com_](mailto:abdurrehmankhan0909@gmail.com)  
+- 🔗LinkedIn: [_Abdur Rehman Khan_](https://www.linkedin.com/in/abdur-rehman-khan-999198320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
   
 ## 📜 **License**
 This project is **open-source** and intended for educational use only.  
