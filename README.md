@@ -2,7 +2,7 @@
 
 ## 📘 **About the Project**
 The **Airline Reservation System** is a `C language` based terminal application developed as part of our ***Programming Fundamentals Lab Project*** at **FAST NUCES - Karachi**.  
-It simulates a simplified airline service, empowering users and admins to manage flights, bookings, and passenger data — all through a structured and file-driven interface.
+It simulates a simplified airline service, empowering users and admins to manage flights, bookings, and passenger data where everything through a structured and file-driven interface.
 
 ---
 
