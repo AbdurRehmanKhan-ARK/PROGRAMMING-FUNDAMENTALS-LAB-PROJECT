@@ -1,103 +1,98 @@
-# ✈️ **Airline Reservation System**
+# 🛫 **Airline Reservation System**  
 
-## 📖 **Project Overview**
-The **Airline Reservation System** is a C-based console application developed as part of our *Programming Fundamentals Lab Project* at **FAST NUCES Karachi**. It facilitates complete management of airline operations including **user bookings**, **flight management**, and **administrative controls** — all within a **text-based user interface**.
-
----
-
-## 💡 **Key Features**
-
-### 👤 **User Features**
-- 🔐 **Registration & Login**  
-  Create a new account or log in as a registered user.
-- 🔍 **Search Flights**  
-  Filter flights based on origin, destination, and travel date.
-- 🎫 **Book Tickets**  
-  Reserve flights and choose ticket types (Economy/Business).
-- 📋 **View Bookings**  
-  See your upcoming or past reservations.
-- ✏️ **Modify Bookings**  
-  Update passenger count or change flight class.
-- ❌ **Cancel Bookings**  
-  Cancel individual or all upcoming reservations.
-
-### 🛠️ **Admin Features**
-- ✈️ **Flight Management**  
-  Add, edit, or delete flight details (date, destination, seats, etc.).
-- 📊 **Booking Overview**  
-  View all passenger bookings or search by user.
-- 🧹 **Auto-cleaning**  
-  Automatically removes flights that have already departed.
+## 📘 **About the Project**
+The **Airline Reservation System** is a `C language` based terminal application developed as part of our ***Programming Fundamentals Lab Project*** at **FAST NUCES - Karachi**.  
+It simulates a simplified airline service, empowering users and admins to manage flights, bookings, and passenger data — all through a structured and file-driven interface.
 
 ---
 
-## 🏗️ **System Architecture**
-| File/Folder             | Type     | Description                                                               |
-| ----------------------- | -------- | ------------------------------------------------------------------------- |
-| `main_project.c`        | `C File` | 🔹 Entry point of the application; contains the main menu logic           |
-| `registration.c`        | `C File` | 🔹 Handles user registration and login functionality                      |
-| `admin.c`               | `C File` | 🔹 Admin-side operations: add, modify, delete, and view flights           |
-| `user.c`                | `C File` | 🔹 User-side operations: search, book, modify, and cancel flight bookings |
-| `validation.c`          | `C File` | 🔹 Provides input validations and checks flight availability              |
-| `DataFiles/`            | `Folder` | 🔹 Directory containing external data used by the system                  |
-| ├── `flight.txt`        | `Text`   | ➤ Stores all flight details: flight number, date, origin, destination     |
-| ├── `user_info.txt`     | `Text`   | ➤ Stores registered user credentials (username & password)                |
-| └─ `user_bookings.txt` | `Text`   | ➤ Tracks each user's booking history and related flight details           |
+## ⚙️ **Project Highlights**
 
-
-
-
+### 👤 **User Panel**
+- 🔐 **User Authentication** – Sign up or log in using your credentials  
+- 🔍 **Flight Finder** – Search flights using departure, arrival, and travel date  
+- 🎟️ **Reserve a Seat** – Book business or economy class tickets  
+- 📄 **View Bookings** – Check your current or previous flight reservations  
+- 🛠️ **Edit Bookings** – Update ticket quantity or class for any flight  
+- ❌ **Cancel Reservations** – Instantly delete selected bookings
 
 ---
 
-## 💻 **Tech Stack**
-- 👨‍💻 **Language:** C (Standard C - GCC Compatible)
-- 💻 **Compiler:** Dev C++ / Embarcadero / Code::Blocks
-- 🗂 **Platform:** Windows OS
-- ✍️ **IDE:** Any C-Compatible IDE
+### 🛠️ **Admin Panel**
+- ✈️ **Flight Controls** – Add, modify, or delete flights with full control  
+- 📊 **Passenger Logs** – Access global booking information and passenger details  
+- 🧹 **Auto Cleanup** – Automatically remove flights that are no longer valid
+
+---
+
+## 🗂 **File Structure**
+
+| 📄 **File/Module**       | 🧠 **Purpose**                                                                 |
+|--------------------------|--------------------------------------------------------------------------------|
+| `main_project.c`         | 🧭 Central control file with main menu and redirection                         |
+| `registration.c`         | 👤 Handles sign up / login authentication                                       |
+| `admin.c`                | 🛫 Admin operations (flight add, edit, delete, view)                           |
+| `user.c`                 | 🎫 Booking logic for users: view, cancel, modify bookings                      |
+| `validation.c`           | 🧾 Input validation & flight availability checks                               |
+| `DataFiles/`             | 📁 Folder containing persistent program data                                   |
+| ├── `flight.txt`         | ✈️ Stores available flights                                                     |
+| ├── `user_info.txt`      | 👥 Stores login credentials (username & password)                              |
+| └── `user_bookings.txt`  | 🧳 Logs all booking records by users                                           |
+
+---
+
+## 💻 **Technology Stack**
+
+- **Language:** C  
+- **Compiler:** GCC / Embarcadero Dev C++  
+- **Platform:** Windows OS  
+- **IDE:** Code::Blocks / Dev C++ / Turbo C (Any C-supported IDE)  
 
 ---
 
 ## ▶️ **How to Run**
 
-1. 📥 **Download or Clone** this repository.
-2. 📂 **Extract** and open the project folder.
-3. 🧭 Open in **Dev C++** or any C IDE.
-4. 🏁 **Press F11** to Compile & Run.
+1. 📥 **Clone** or **Download** the repository  
+2. 📂 **Open** the project folder in your IDE  
+3. 🔧 **Compile all source files** (`.c`)  
+4. 🏃 **Run** the executable and follow the on-screen menu
 
 ---
-## 🧑‍🤝‍🧑 Contributors
 
-| 👨‍💻 Name                | 🧠 Key Contributions                                                                 |
-|-------------------------|--------------------------------------------------------------------------------------|
-| **Faizan Basheer**      | - Developed the complete **Login & Registration system** <br> - Designed the **Admin Panel** with features to add, modify, delete, and view flight details |
-| **Syed Muhammad Sufyan**| - Built the **User Booking Module**, including booking, canceling, and viewing flights <br> - Implemented **automatic cleanup** of past/departed flights |
-| **Abdur Rehman Khan**   | - Ensured **data validation** for login credentials and flight entries <br> - Developed logic to retrieve and display **specific user booking information** |
+## 🧑‍🤝‍🧑 **Contributors**
 
-
+| 👨‍💻 **Team Member**        | 🧠 **Responsibilities**                                                                                   |
+|----------------------------|------------------------------------------------------------------------------------------------------------|
+| **Faizan Basheer**         | 🔸 Built the complete **login & registration system** <br> 🔸 Developed the **Admin Dashboard & Flight CRUD** logic |
+| **Syed Muhammad Sufyan**   | 🔸 Designed the **User-side booking, modification, and cancellation** logic <br> 🔸 Implemented **auto-flight cleanup** |
+| **Abdur Rehman Khan**      | 🔸 Wrote **data validation modules** <br> 🔸 Developed logic to **extract and display user-specific booking history** |
 
 ---
 
 ## 🎯 **Why This Project?**
-> Designed to emulate a real-world airline booking environment, this system gave us hands-on experience in:
-> - 🔁 File Handling
-> - 🧠 Logical Structuring
-> - 🧩 Modular Programming
-> - 🛠 Error Detection & Input Validation
+
+> This project offered practical exposure to core programming concepts like:
+> - 🗃️ File Handling & I/O  
+> - 🧩 Modular Programming Structure  
+> - 🔐 Authentication Logic  
+> - ❌ Error Management & Validation  
+> - 📂 Data Persistence  
 
 ---
-## 📫 Contact
 
-- 📧 Gmail: [_abdurrehmankhan0909@gmail.com_](mailto:abdurrehmankhan0909@gmail.com)  
-- 🔗LinkedIn: [_Abdur Rehman Khan_](https://www.linkedin.com/in/abdur-rehman-khan-999198320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 📫 **Get in Touch**
 
-  
+- 📧 **Email:** [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
+- 🔗 **LinkedIn:** [Abdur Rehman Khan](https://www.linkedin.com/in/abdur-rehman-khan-999198320)
+
+---
+
 ## 📜 **License**
-This project is **open-source** and intended for educational use only.  
-Feel free to fork, learn, and build your own ideas on top of this.
+
+This project is **open-source** and developed solely for **educational use**.  
+Feel free to **fork, learn, and expand** upon it for your own projects or academic needs.
 
 ---
- 
 
-> ✨ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
-
+> ✨ *"A user-friendly program is invisible, but powerful. That’s what this project aims to be."*  
+> ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  ~ Cory House
