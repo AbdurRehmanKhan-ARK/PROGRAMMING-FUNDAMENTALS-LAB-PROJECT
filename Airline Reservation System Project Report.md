@@ -4,13 +4,14 @@
 **Course:** Programming Fundamentals – Lab  
 **Campus:** FAST-NUCES, Karachi  
 **Section:** BCS-1G  
-**Submission Date:** 4th December 2024  
+**Submission Date:** 4th December 2024
+**Lab Instructor:** Miss Ramsha Iqbal
 
 ---
 
 ## 👥 Group Members
 
-| Name                  | Reg No     | Key Roles                                                                 |
+| Name                  | Student IDs     | Key Roles                                                                 |
 |-----------------------|------------|----------------------------------------------------------------------------|
 | **Faizan Basheer**     | 24K-0571   | Login system, Admin dashboard, Flight management (Add/Delete/Modify)      |
 | **Syed Muhammad Sufyan** | 24K-0806 | Booking system, Auto flight cleanup, User-side flight operations           |
@@ -132,7 +133,7 @@ This Airline Reservation System represents a microcosm of real-world airline sof
 - Control flow and validation logic
 - Modular menu-driven programming
 
-> ✨ “What began as a lab assignment, turned into an immersive journey — teaching us not just about code, but about clarity, modularity, and responsibility.”
+> ✨ “What began as a lab assignment, turned into an immersive journey | teaching us not just about code, but about clarity, modularity, and responsibility.”
 
 ---
 
@@ -151,7 +152,11 @@ This Airline Reservation System represents a microcosm of real-world airline sof
 - 📧 Email: [isyedsufyan2005@gmail.com](mailto:isyedsufyan2005@gmail.com) 
 
 ---
+### 💬 Feedback & Suggestions
 
+We warmly welcome your thoughts | feel free to share any ideas or suggestions to help us improve and enhance this project further.
+
+---
 ## 🪪 License
 
 This project is open-source and intended for **educational use only**.  
