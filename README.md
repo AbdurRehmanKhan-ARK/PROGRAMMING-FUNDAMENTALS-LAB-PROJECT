@@ -81,7 +81,6 @@ It simulates a simplified airline service, empowering users and admins to manage
 ---
 
 ## 🧾 Final Words
-## 🧾 Final Words
 
 | What started as a simple lab assignment in the Programming Fundamentals course soon evolved into a full-fledged simulation of a real-world reservation system.  
 | Through this journey, we didn't just write C code, we developed critical thinking, debugged with patience, and designed systems with structure and purpose.  
