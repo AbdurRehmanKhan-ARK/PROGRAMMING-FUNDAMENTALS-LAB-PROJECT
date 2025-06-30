@@ -149,8 +149,8 @@ This Airline Reservation System represents a microcosm of real-world airline sof
 
 ## 📬 Contact Us
 
-- 📧 Email: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
-- 📧 Email: [isyedsufyan2005@gmail.com](mailto:isyedsufyan2005@gmail.com) 
+- 📧 Gmail: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
+- 📧 Gmail: [isyedsufyan2005@gmail.com](mailto:isyedsufyan2005@gmail.com) 
 
 ---
 ### 💬 Feedback & Suggestions
