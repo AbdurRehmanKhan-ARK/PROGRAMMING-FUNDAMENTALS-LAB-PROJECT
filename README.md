@@ -96,8 +96,8 @@ It simulates a simplified airline service, empowering users and admins to manage
 
 ## 📫 **Get in Touch**
 
-- 📧 **Email:** [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
-- 🔗 **LinkedIn:** [Abdur Rehman Khan](https://www.linkedin.com/in/abdur-rehman-khan-999198320)
+- 📧 **Gmail:** [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
+- 📧 **Gmail:** [isyedsufyan2005@gmail.com](mailto:isyedsufyan2005@gmail.com) 
 
 ---
 
