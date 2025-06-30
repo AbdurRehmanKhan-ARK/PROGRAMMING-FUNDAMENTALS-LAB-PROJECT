@@ -81,14 +81,16 @@ It simulates a simplified airline service, empowering users and admins to manage
 ---
 
 ## 🧾 Final Words
+## 🧾 Final Words
 
-| What started as a classroom assignment in Programming Fundamentals became a turning point in our coding journey.                      |
-| This project wasn’t just about writing C — it was about writing logic, thinking critically, and solving real-world problems.         |
-| From validating user inputs to managing persistent data through text files, every feature challenged us to become better programmers.|
-| Each bug we fixed and every function we modularized brought us closer to understanding what it means to build systems that matter.   |
-|                                                                                                                                        |
-| 🛫 This Airline Reservation System marks our transition from learning how to code to learning how to develop.                         |
-| 💻 It stands as a foundation — where teamwork met logic, and where code met clarity.                                                  |
+| What started as a simple lab assignment in the Programming Fundamentals course soon evolved into a full-fledged simulation of a real-world reservation system. 
+| Through this journey, we didn't just write C code — we developed critical thinking, debugged with patience, and designed systems with structure and purpose. 
+| Every module — from flight management to user bookings — taught us the value of logic, clarity, and clean architecture in programming. 
+| This project was not only about learning syntax but about learning how to **think like programmers**, and more importantly, how to work like a team. 
+
+| 🛫 *This Airline Reservation System is a symbol of our foundation — the first real step toward building software that solves problems.* 
+| 💡 *Where menus met memory, and loops met logic — this project helped us evolve from coding students into budding developers.* 
+
 
 ---
 
