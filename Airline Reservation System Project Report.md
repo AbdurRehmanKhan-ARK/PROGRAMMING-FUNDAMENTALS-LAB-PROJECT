@@ -147,20 +147,6 @@ This Airline Reservation System represents a microcosm of real-world airline sof
 
 ---
 
-## 📬 Contact Us
-
-- 📧 Gmail: [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
-- 📧 Gmail: [isyedsufyan2005@gmail.com](mailto:isyedsufyan2005@gmail.com) 
-
----
-### 💬 Feedback & Suggestions
-
-We warmly welcome your thoughts | feel free to share any ideas or suggestions to help us improve and enhance this project further.
-
----
-## 🪪 License
-
-This project is open-source and intended for **educational use only**.  
 Redistribution for commercial purposes is not permitted.
 
 ---
